@@ -1,0 +1,133 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.54.0] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\react-native-0.54.0.aar\4ba702392ef31a6cf2af32f51f16abb0\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\f32e5ff69d6a5080401d3989ba438271\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\6317e78a5928282bd813e01df310953f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\4d7ffccdd8f24445ec2ac7eb0d2fe660\AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\7f288930b38e42a8fa3594395a7c0caf\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\fced2afdc773695df0c3274e096b24a1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\9920c7864334552e114c0c1a88c7db5e\AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\c85d95cc3393eb16c20e47dc6808de6b\AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\02d02dae5f2dd5b3acaaa16a0240e0bf\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\9a6467e0d4a6ec1074522430308a327c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\da4897f927eeb2508eae37be58d2fae8\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\6567e3a56503d2d24336a53a6b5ff144\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml:2:5-27
+		INJECTED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.54.0] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\react-native-0.54.0.aar\4ba702392ef31a6cf2af32f51f16abb0\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.54.0] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\react-native-0.54.0.aar\4ba702392ef31a6cf2af32f51f16abb0\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml:5:22-75
+application
+ADDED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.54.0] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\react-native-0.54.0.aar\4ba702392ef31a6cf2af32f51f16abb0\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.54.0] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\react-native-0.54.0.aar\4ba702392ef31a6cf2af32f51f16abb0\AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\f32e5ff69d6a5080401d3989ba438271\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\f32e5ff69d6a5080401d3989ba438271\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\6317e78a5928282bd813e01df310953f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\6317e78a5928282bd813e01df310953f\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\9920c7864334552e114c0c1a88c7db5e\AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\9920c7864334552e114c0c1a88c7db5e\AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\c85d95cc3393eb16c20e47dc6808de6b\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\c85d95cc3393eb16c20e47dc6808de6b\AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml:8:7-38
+activity#com.rncourse.MainActivity
+ADDED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.54.0] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\react-native-0.54.0.aar\4ba702392ef31a6cf2af32f51f16abb0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.54.0] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\react-native-0.54.0.aar\4ba702392ef31a6cf2af32f51f16abb0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\f32e5ff69d6a5080401d3989ba438271\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\f32e5ff69d6a5080401d3989ba438271\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\6317e78a5928282bd813e01df310953f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\6317e78a5928282bd813e01df310953f\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\4d7ffccdd8f24445ec2ac7eb0d2fe660\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\4d7ffccdd8f24445ec2ac7eb0d2fe660\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\7f288930b38e42a8fa3594395a7c0caf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\7f288930b38e42a8fa3594395a7c0caf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\fced2afdc773695df0c3274e096b24a1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\fced2afdc773695df0c3274e096b24a1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\9920c7864334552e114c0c1a88c7db5e\AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\9920c7864334552e114c0c1a88c7db5e\AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\02d02dae5f2dd5b3acaaa16a0240e0bf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\02d02dae5f2dd5b3acaaa16a0240e0bf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\9a6467e0d4a6ec1074522430308a327c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\9a6467e0d4a6ec1074522430308a327c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\da4897f927eeb2508eae37be58d2fae8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\da4897f927eeb2508eae37be58d2fae8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\6567e3a56503d2d24336a53a6b5ff144\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\Avell\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\6567e3a56503d2d24336a53a6b5ff144\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Avell\Desktop\ReactNative\rncourse\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
